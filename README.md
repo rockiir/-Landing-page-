@@ -32,7 +32,7 @@ Através deste desafio pude adquirir conhecimentos sobre:
 
 [![](https://github.com/rockiir/-Landing-page-/blob/main/img/chrome_KCaIzkb8MR.png)](https://landingpagehcoders.netlify.app/)
 
-[^ Autor Raquel de matos]: 
+[[^ Autor Raquel de matos]:](https://www.linkedin.com/in/raquel-matos-mauricio/)
 
 
 
