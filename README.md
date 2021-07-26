@@ -12,13 +12,13 @@ BoraHex é uma aplicação simples desenvolvida como primeiro desafio do Hiring 
 
 # Tecnologias utilizadas
 
-## Front end
-
 - HTML
 - CSS
 - Javascript
 - React.js
 - Materialize
+- GraphQl
+- ApollloClient
 
 # Aprendizados adquiridos
 
@@ -27,6 +27,9 @@ Através deste desafio pude adquirir conhecimentos sobre:
 - LocalStorage
 - netlify
 - Materialize
+- GraphQl
+- ApollloClient
+
 
 ## Resultado Final
 
